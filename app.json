@@ -1,8 +1,8 @@
 {
-    "name": "Cyber-X WhatsApp Bot",
+    "name": "ᴜsᴍᴀɴ sᴇʀt",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
-    "repository": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT",
-    "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
+    "repository": "https://github.com/usmanser123/CYBER-X-WHATSAPP-BOT",
+    "logo": "https://telegra.ph/file/335a2d0eced4a93409abd.jpg",
     "keywords": [
         "nodejs",
         "Bot",
@@ -29,7 +29,7 @@
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
-            "value": "private"
+            "value": "public"
         }
     },
     "buildpacks": [
